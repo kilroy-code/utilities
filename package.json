@@ -1,11 +1,25 @@
 {
   "name": "@kilroy-code/utilities",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": {
+    "name": "Howard Stearns",
+    "email": "howard@ki1r0y.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kilroy-code/utilities.git"
+  },
+  "homepage": "https://github.com/kilroy-code/utilities#readme",
+  "bugs": {
+    "url": "https://github.com/kilroy-code/utilities/issues"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/kilroy-code"
+  }
 }
