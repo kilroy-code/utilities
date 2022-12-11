@@ -1,6 +1,6 @@
 {
   "name": "@kilroy-code/utilities",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,6 @@
     "url": "https://github.com/kilroy-code/utilities/issues"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/kilroy-code"
+    "registry": "https://npm.pkg.github.com"
   }
 }
