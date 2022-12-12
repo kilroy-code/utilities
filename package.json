@@ -1,6 +1,6 @@
 {
   "name": "@kilroy-code/utilities",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -23,6 +23,6 @@
     "registry": "https://npm.pkg.github.com"
   },
   "dependencies": {
-    "@kilroy-code/croquet-in-memory": "^0.0.3"
+    "@kilroy-code/croquet-in-memory": "^0.0.4"
   }
 }
