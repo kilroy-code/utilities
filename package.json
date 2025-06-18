@@ -1,7 +1,13 @@
 {
   "name": "@kilroy-code/utilities",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "",
+  "exports": {
+    "./croquet.mjs": "./croquet.mjs",
+    "./delay.mjs": "./delay.mjs",
+    "./errors.mjs": "./errors.mjs",
+    "./performance.mjs": "./performance.mjs"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
